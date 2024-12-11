@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e8f5e9;
+  }
+  
+  .shadow-image-container {
+    text-align: center;
+  }
+  
+  .shadow-image {
+    width: 400px;
+    height: auto;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  }
+  
